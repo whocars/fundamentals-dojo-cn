@@ -168,11 +168,13 @@ modules:
     name: level51
     description: Shows how dangerous it is to allow users to load their own code as plugins into the program (but figuring out how is the hard part)!
   resources:
-  - name: "Program Interaction: Linux Command Line"
+  - name: "程序交互-命令行[Program Interaction - The Command Line]"
     type: lecture
     video: w7nQFk6bi_k
     playlist: PL-ymxv0nOtqqQ4NR1JnbWoHNm0Q8EspO1
     slides: 1aiHdtSm8xoT0u2XcTo3qYGes5GY__-PK-FlVyNBQAfY
+    cn_video: aid=706467869&bvid=BV18Q4y1t7HZ&cid=1345149443&p=1
+    cn_slides: "no"
   - name: "Program Misuse: Privilege Escalation"
     type: lecture
     video: ZWxYWdiXqD8
